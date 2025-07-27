@@ -74,3 +74,18 @@
       - step: Run `git remote add origin https://github.com/yourusername/Library-Management-System.git`
       - step: Run `git branch -M main`
       - step: Run `git push -u origin main`
+## fun_facts:
+  - 🧠 Uses dictionaries to simulate a simple database
+  - 🔄 Mimics real-life issue/return cycle
+  - 💡 No internet required – 100% offline
+
+## future_scope:
+  - 🔐 Add user authentication
+  - 🕑 Track issue and return dates
+  - 💾 Store books in a file or database for persistence
+  - 🖥️ Build a GUI with Tkinter or a web version with Flask
+
+## author:
+  name: Vani Sree
+  title: Aspiring Python Developer 💻
+  year: 2025
