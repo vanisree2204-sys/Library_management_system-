@@ -86,6 +86,6 @@
   - 🖥️ Build a GUI with Tkinter or a web version with Flask
 
 ## author:
-  name: Vani Sree
-  title: Aspiring Python Developer 💻
-  year: 2025
+        name: Vani Sree
+        title: Aspiring Python Developer 💻
+        year: 2025
